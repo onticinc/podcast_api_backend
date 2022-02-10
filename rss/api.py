@@ -1,12 +1,9 @@
-authorization: Bearer {token}
+import http.client
 
-
-import requests
-
-
-response = requests.get('https://api.simplecast.com')
-
-
-# response_dict = response.json()
-
-print(response)
+conn = http.client.HTTPSConnection("api.simplecast.com")
+payload = ''
+headers = {}
+conn.request("GET", "/episodes/eyJhcGlfa2V5IjoiZjliNTUzZjg5MTEwYmIyOWNkMzZmOTQwYTFkMjZlYjkifQ==", payload, headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
