@@ -1,6 +1,12 @@
+authorization: Bearer {token}
+
+
 import requests
 
-payload = {'page': 2, 'count': 25}
-response = requests.get('https://httpbin.org/get', params=payload)
 
-print(response.url)
+response = requests.get('https://api.simplecast.com')
+
+
+# response_dict = response.json()
+
+print(response)
