@@ -22,6 +22,9 @@ def home(request):
 def splash(request):
     return render(request, 'rss/rss_splash.html')
 
+def booking(request):
+    return render(request, 'rss/booking.html')
+
 
 
 

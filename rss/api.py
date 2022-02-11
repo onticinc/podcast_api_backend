@@ -1,9 +1,16 @@
-import http.client
+from dotenv import load_dotenv
+import os 
+load_dotenv()
 
-conn = http.client.HTTPSConnection("api.simplecast.com")
-payload = ''
-headers = {}
-conn.request("GET", "/episodes/8d60a36a-8830-4d05-af67-e6e1667a0741", payload, headers)
-res = conn.getresponse()
-data = res.read()
-print(data.decode("utf-8"))
+
+TOKEN = os.getenv('API_KEY')
+
+
+
+url = 'https://api.simplecast.com/podcasts/:podcast_id/episodes?limit=12&offset=0'
+
+headers = {
+
+}
+
+r = requests.get(url)
