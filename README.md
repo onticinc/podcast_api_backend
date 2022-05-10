@@ -27,20 +27,6 @@
 [Patrick Brennan](https://github.com/pambonian)<br>
 <hr />
 
-# Special Thanks to:
-#### Avery: For amazing help all cohort during office hours.  
-#### Perice: Great to get to know you and thanks for helping out all cohort! 
-#### Justin: For Help Debugging Views RSS. 
-#### Roland: For Help Debugging.  
-#### Eric: For Help Parsing RSS Feed. 
-
-<hr />
-
-# <bold>Extra Special thanks to:</bold> 
-### @Rome - For Going Above And Beyond. All Day, Every Day!
-
-<hr />
-
 <!-- ABOUT THE PROJECT -->
 
 <hr />
@@ -58,20 +44,6 @@ http://173.230.133.42:8000/
 <hr />
 
 
-#### Initial Build was from this series. 
-
-<br />
-
-https://www.youtube.com/watch?v=UmljXZIypDc
-
-<hr />
-
-
-#### Poll App is from Django Tutorial Docs. 
-
-<br />
-
-https://docs.djangoproject.com/en/4.0/intro/tutorial01/
 
 
 <hr />
