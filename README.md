@@ -31,16 +31,6 @@
 
 <hr />
 
-# About The Project
-#### Rss App is parsed and designed by:
-
-<br />
-
-[Michael Smith](https://github.com/onticinc) 
-<br />
-
-[Patrick Brennan](https://github.com/pambonian)
-
 
 # Built With
 
