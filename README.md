@@ -56,31 +56,6 @@
 
 <hr />
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-#### Fork and Clone this repository
-   
-  ```sh
-    git clone https://github.com/onticinc/podcast_template.git
-  ```
-#### Change rss link in rss/rss_info.py
-   
-  ```sh
-    source = requests.get('https://feeds.simplecast.com/T8TzwY_T').text
-  ```
-
-#### Install Packages and Migrate
-  
-  ```sh
-    <!-- Put Commands Here -->
-  ```
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ## Appearance
 
