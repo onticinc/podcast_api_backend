@@ -212,30 +212,20 @@ https://django-crispy-forms.readthedocs.io/en/latest/
 
 <hr />
 
-##### We started by making the example Poll app in Django's docs. Next we followed a blog turorial. 
+##### We started by making the example Poll app in Django's docs then followed a blog turorial. 
 
 <br />
 
-##### We deployed to Linode after getting the blog working. During that process we realized how hard it was to deploy to Linode. Not wanting to go throught that process everytime we decided to deploy to heroku after making the rss app and front end changes...  
+##### We deployed to Linode after getting the blog working. During that process we realized how hard it was to deploy to Linode. Not wanting to go through that process everytime, we decided to deploy to heroku after making the rss app and front end changes...  
 
 <br />
 
-##### That was a big mistake. Lots of debugging, many tears. (not really... ok maybe a few.)
+##### That was a big mistake. Lots of debugging and many tears. (not really... ok maybe a few.)
 
 <br />
 
 ##### Heroku does not have a way to store images or other media other than AWS buckets. We set that up and got the images pulling from our buckets.
 
-<br />
-
-##### When we went to deploy to heroku we were getting 
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<hr />
 
 # Roadblocks
 
