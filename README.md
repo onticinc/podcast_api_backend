@@ -32,46 +32,15 @@
 <hr />
 
 # About The Project
-
-<hr />
-
-#### Link to Linode deployment:
-
-<br />
-
-http://173.230.133.42:8000/
-
-<hr />
-
-
-
-
-<hr />
-
 #### Rss App is parsed and designed by:
 
 <br />
 
-[Michael Smith](https://github.com/onticinc) <br>
-
+[Michael Smith](https://github.com/onticinc) 
 <br />
 
 [Patrick Brennan](https://github.com/pambonian)
 
-
-<hr />
-
-#### scrapper.py referenced from here:
-
-<br />
-
-https://www.youtube.com/watch?v=ng2o98k983k
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<hr />
 
 # Built With
 
