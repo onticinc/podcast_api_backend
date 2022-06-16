@@ -1,13 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -27,79 +19,10 @@
 [Patrick Brennan](https://github.com/pambonian)<br>
 <hr />
 
-# Special Thanks to:
-#### Avery: For amazing help all cohort during office hours.  
-#### Perice: Great to get to know you and thanks for helping out all cohort! 
-#### Justin: For Help Debugging Views RSS. 
-#### Roland: For Help Debugging.  
-#### Eric: For Help Parsing RSS Feed. 
-
-<hr />
-
-# <bold>Extra Special thanks to:</bold> 
-### @Rome - For Going Above And Beyond. All Day, Every Day!
-
-<hr />
-
 <!-- ABOUT THE PROJECT -->
 
 <hr />
 
-# About The Project
-
-<hr />
-
-#### Link to Linode deployment:
-
-<br />
-
-http://173.230.133.42:8000/
-
-<hr />
-
-
-#### Initial Build was from this series. 
-
-<br />
-
-https://www.youtube.com/watch?v=UmljXZIypDc
-
-<hr />
-
-
-#### Poll App is from Django Tutorial Docs. 
-
-<br />
-
-https://docs.djangoproject.com/en/4.0/intro/tutorial01/
-
-
-<hr />
-
-#### Rss App is parsed and designed by:
-
-<br />
-
-[Michael Smith](https://github.com/onticinc) <br>
-
-<br />
-
-[Patrick Brennan](https://github.com/pambonian)
-
-
-<hr />
-
-#### scrapper.py referenced from here:
-
-<br />
-
-https://www.youtube.com/watch?v=ng2o98k983k
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<hr />
 
 # Built With
 
@@ -124,31 +47,6 @@ https://www.youtube.com/watch?v=ng2o98k983k
 [Aws3](https://aws.amazon.com/s3/)
 
 <hr />
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-#### Fork and Clone this repository
-   
-  ```sh
-    git clone https://github.com/onticinc/podcast_template.git
-  ```
-#### Change rss link in rss/rss_info.py
-   
-  ```sh
-    source = requests.get('https://feeds.simplecast.com/T8TzwY_T').text
-  ```
-
-#### Install Packages and Migrate
-  
-  ```sh
-    <!-- Put Commands Here -->
-  ```
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ## Appearance
@@ -306,30 +204,20 @@ https://django-crispy-forms.readthedocs.io/en/latest/
 
 <hr />
 
-##### We started by making the example Poll app in Django's docs. Next we followed a blog turorial. 
+##### We started by making the example Poll app in Django's docs then followed a blog turorial. 
 
 <br />
 
-##### We deployed to Linode after getting the blog working. During that process we realized how hard it was to deploy to Linode. Not wanting to go throught that process everytime we decided to deploy to heroku after making the rss app and front end changes...  
+##### We deployed to Linode after getting the blog working. During that process we realized how hard it was to deploy to Linode. Not wanting to go through that process everytime, we decided to deploy to heroku after making the rss app and front end changes...  
 
 <br />
 
-##### That was a big mistake. Lots of debugging, many tears. (not really... ok maybe a few.)
+##### That was a big mistake. Lots of debugging and many tears. (not really... ok maybe a few.)
 
 <br />
 
 ##### Heroku does not have a way to store images or other media other than AWS buckets. We set that up and got the images pulling from our buckets.
 
-<br />
-
-##### When we went to deploy to heroku we were getting 
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<hr />
 
 # Roadblocks
 
