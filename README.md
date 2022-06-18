@@ -3,9 +3,9 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/onticinc/podcast_template">
-    <img src="https://djontic.com/wp-content/uploads/2022/01/R217-0109_Eggs_Profile_Art_v01.jpg" alt="Logo" width="300" height="300">
+    <img src="https://djontic.com/wp-content/uploads/2022/01/R217-0109_Eggs_Profile_Art_v01.jpg" alt="Logo" width="300" height="300"> -->
   </a>
 
 
